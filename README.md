@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jean-Christophe 🧑‍💻 ... 🎸 🎧 🏔 ⛷ 🏉 🎾 👟 ⛵
 
-<img src="jctophefabre_card.png">
+<img src="https://raw.githubusercontent.com/jctophefabre/jctophefabre/master/jctophefabre_card.png">
 <br/>
 <br/>
 
