@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180.27052mm"
+   height="55.145912mm"
+   viewBox="0 0 180.27052 55.14591"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="jctophefabre_card.svg"
+   inkscape:export-filename="/Users/jcfabre/SidePro/GitRepositories/jctophefabre/jctophefabre_card.png"
+   inkscape:export-xdpi="171.09877"
+   inkscape:export-ydpi="171.09877">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0113845"
+     inkscape:cx="308.04018"
+     inkscape:cy="120.03264"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1558"
+     inkscape:window-height="1200"
+     inkscape:window-x="2337"
+     inkscape:window-y="153"
+     inkscape:window-maximized="0"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     lock-margins="true"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-25.458332,-91.226196)">
+    <rect
+       style="fill:#26517c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect833"
+       width="178.27052"
+       height="53.145912"
+       x="26.458332"
+       y="92.226196"
+       ry="8.6451578" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.6788px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236616"
+       x="199.67419"
+       y="125.53657"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="199.67419"
+         y="125.53657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.6788px;font-family:Sys;-inkscape-font-specification:Sys;text-align:end;text-anchor:end;fill:#bababa;fill-opacity:1;stroke-width:0.236616">Senior developer</tspan><tspan
+         sodipodi:role="line"
+         x="199.67419"
+         y="132.63507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.6788px;font-family:Sys;-inkscape-font-specification:Sys;text-align:end;text-anchor:end;fill:#bababa;fill-opacity:1;stroke-width:0.236616"
+         id="tspan857">Project leader</tspan><tspan
+         sodipodi:role="line"
+         x="199.67419"
+         y="139.73357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.6788px;font-family:Sys;-inkscape-font-specification:Sys;text-align:end;text-anchor:end;fill:#bababa;fill-opacity:1;stroke-width:0.236616"
+         id="tspan859">&amp; Community organizer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.5032px;line-height:1.25;font-family:sans-serif;letter-spacing:1.32292px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.562631"
+       x="175.45195"
+       y="109.59392"
+       id="text855-5"><tspan
+         sodipodi:role="line"
+         x="176.77487"
+         y="109.59392"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.5032px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.562631"
+         id="tspan859-1">JEAN-CHRISTOPHE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.5032px;line-height:1.25;font-family:sans-serif;letter-spacing:1.32292px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.562631"
+       x="80.834328"
+       y="126.58118"
+       id="text897"><tspan
+         sodipodi:role="line"
+         x="82.157249"
+         y="126.58118"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.5032px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#ff7400;fill-opacity:1;stroke-width:0.562631"
+         id="tspan895">FABRE</tspan></text>
+  </g>
+</svg>
