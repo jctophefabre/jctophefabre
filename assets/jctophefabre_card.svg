@@ -8,18 +8,30 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="180.27052mm"
-   height="55.145912mm"
-   viewBox="0 0 180.27052 55.14591"
+   width="148.98056mm"
+   height="32.160782mm"
+   viewBox="0 0 148.98056 32.160779"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    sodipodi:docname="jctophefabre_card.svg"
    inkscape:export-filename="/Users/jcfabre/SidePro/GitRepositories/jctophefabre/jctophefabre_card.png"
-   inkscape:export-xdpi="169.03882"
-   inkscape:export-ydpi="169.03882">
+   inkscape:export-xdpi="204.55348"
+   inkscape:export-ydpi="204.55348">
   <defs
      id="defs2">
+    <rect
+       x="122.09187"
+       y="129.93964"
+       width="171.95969"
+       height="29.410208"
+       id="rect866" />
+    <rect
+       x="306.73697"
+       y="73.719231"
+       width="44.138783"
+       height="15.384912"
+       id="rect860" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient851">
@@ -45,9 +57,9 @@
        inkscape:collect="always"
        xlink:href="#linearGradient851"
        id="linearGradient855"
-       x1="34.379207"
+       x1="34.379208"
        y1="121.74165"
-       x2="80.129938"
+       x2="80.129936"
        y2="121.74165"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -58,23 +70,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3879325"
-     inkscape:cx="402.37418"
-     inkscape:cy="81.420478"
+     inkscape:zoom="2.2808083"
+     inkscape:cx="232.62331"
+     inkscape:cy="86.445799"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2077"
+     inkscape:window-width="2220"
      inkscape:window-height="1200"
-     inkscape:window-x="2106"
-     inkscape:window-y="65"
+     inkscape:window-x="1922"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     fit-margin-top="1"
-     fit-margin-left="1"
+     fit-margin-top="3"
+     fit-margin-left="3"
      lock-margins="true"
-     fit-margin-right="1"
-     fit-margin-bottom="1" />
+     fit-margin-right="3"
+     fit-margin-bottom="3"
+     units="mm" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -83,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,51 +104,44 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-25.458332,-91.226196)">
+     transform="translate(-54.045343,-95.927035)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.91486000000000001px;line-height:1.25;font-family:sans-serif;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.329785;letter-spacing:0.79375px"
-       x="199.21152"
-       y="120.60572"
-       id="text855"><tspan
-         sodipodi:role="line"
-         id="tspan853"
-         x="199.21152"
-         y="120.60572"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.91486000000000001px;font-family:'RUBBER STAMP';-inkscape-font-specification:'RUBBER STAMP';text-align:end;text-anchor:end;fill:#26517c;fill-opacity:1;stroke-width:0.329785;">Software engineer</tspan><tspan
-         sodipodi:role="line"
-         x="199.21152"
-         y="130.81775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.91486000000000001px;font-family:'RUBBER STAMP';-inkscape-font-specification:'RUBBER STAMP';text-align:end;text-anchor:end;fill:#26517c;fill-opacity:1;stroke-width:0.329785;"
-         id="tspan857">&amp; Project leader</tspan><tspan
-         sodipodi:role="line"
-         x="199.21152"
-         y="141.02977"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.91486000000000001px;font-family:'RUBBER STAMP';-inkscape-font-specification:'RUBBER STAMP';text-align:end;text-anchor:end;fill:#26517c;fill-opacity:1;stroke-width:0.329785;"
-         id="tspan859">&amp; Community organizer</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.9196px;line-height:1.25;font-family:sans-serif;letter-spacing:1.55967px;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:15.9196px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="200.03612"
        y="110.57243"
        id="text855-5"
        transform="scale(1.0017396,0.99826342)"><tspan
          sodipodi:role="line"
-         x="201.59579"
+         x="200.03612"
          y="110.57243"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.9196px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#343a40;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan859-1">JEAN-CHRISTOPHE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.9196px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan859-1"><tspan
+   id="tspan851"
+   style="fill:#7f7f7f;fill-opacity:1">JEAN</tspan>-CHRISTOPHE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.9196px;line-height:1.25;font-family:sans-serif;letter-spacing:1.55967px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="88.48597"
-       y="130.07623"
+       style="font-style:normal;font-weight:normal;font-size:15.9196px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="103.72531"
+       y="125.30542"
        id="text897"
        transform="scale(1.0017396,0.99826342)"><tspan
          sodipodi:role="line"
-         x="90.045639"
-         y="130.07623"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.9196px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#ff7400;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="103.72531"
+         y="125.30542"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.9196px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end;fill:#ff7400;fill-opacity:1;stroke:none;stroke-width:0.235791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan895">FABRE</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text864"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;letter-spacing:0.57695600000000002px;white-space:pre;shape-inside:url(#rect866);fill:#7f7f7f;fill-opacity:1;stroke:none;"
+       transform="matrix(0.45858489,0,0,0.45858489,52.690291,54.677054)"><tspan
+         x="122.0918"
+         y="139.30319"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#7f7f7f;fill-opacity:1">ARCHITECT / LEAD DEVELOPER
+</tspan></tspan><tspan
+         x="122.0918"
+         y="152.63567"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#7f7f7f;fill-opacity:1">TEAM &amp; PROJECT MANAGER</tspan></tspan></text>
   </g>
 </svg>
